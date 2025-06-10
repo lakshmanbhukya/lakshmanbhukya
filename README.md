@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a Computer Science student who loves crafting 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript, Java, JSP, Servlets  
+- **Languages:** HTML, CSS, JavaScript, Java  
 - **Frontend:** React.js, Bootstrap, jQuery  
-- **Backend:** Spring Boot  
+- **Backend:** JSP,Servlets,Express.js  
 - **Databases:** MongoDB, MySQL  
 - **Tools:** Git & GitHub, Figma, Postman, VS Code
 
