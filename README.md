@@ -48,7 +48,7 @@ Currently learning <strong>Express.js</strong>, <strong>Firebase</strong>, and e
 
 ## 🔗 Connect with Me
 
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lakshmanbhukya)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lakshmanbhukya)  
