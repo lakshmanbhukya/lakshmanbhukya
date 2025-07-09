@@ -38,10 +38,15 @@ Currently learning <strong>Express.js</strong>, <strong>Firebase</strong>, and e
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=lakshmanbhukya&row=1&column=6&theme=darkhub&no-frame=true" alt="Trophies" />
-    <br/><br/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lakshmanbhukya&show_icons=true&theme=onedark&count_private=true" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanbhukya&theme=onedark" />
+ ## 🏆 GitHub Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=lakshmanbhukya&row=1&column=6&theme=darkhub&no-frame=true)
+
+## 📊 GitHub Stats
+
+![Lakshman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmanbhukya&show_icons=true&theme=onedark&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakshmanbhukya&theme=onedark)
+
 </div>
 
 ---
