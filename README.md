@@ -10,14 +10,14 @@
 <h1 align="center">Hi, I'm Lakshman 👋</h1>
 
 <p align="center">
-🎓 Computer Science Undergraduate | 💻 Full-Stack Web Developer | 🚀 Lifelong Learner  
+🎓 Computer Science Undergraduate | 🧠 AI & Systems Explorer | 💻 Full-Stack Builder  
 <br/><br/>
-I enjoy building clean, scalable, and user-focused web applications. My interests span across modern frontend development, backend systems, and integrating intelligent features into real-world products.  
+I’m a developer who learns by building. I enjoy breaking down complex systems — from modern web architectures to AI workflows — and turning ideas into working software.  
 <br/><br/>
-Currently sharpening my skills in <strong>Express.js</strong>, <strong>Firebase</strong>, and advanced <strong>JavaScript</strong> while building impactful projects like <strong>SkillEdge</strong> — an AI-powered EdTech platform.
+My current focus lies at the intersection of <strong>full-stack engineering</strong>, <strong>AI integration</strong>, and <strong>developer tooling</strong>. I experiment with real-world implementations of LLMs, backend systems, and scalable web applications rather than just studying theory.
 </p>
 
-<p align="center"><em>"Learn. Build. Improve. Repeat."</em></p>
+<p align="center"><em>"Understand deeply. Build practically. Improve continuously."</em></p>
 
 <div align="center">   
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lakshmanbhukya.lakshmanbhukya" alt="visitors" height="27px" />
@@ -25,13 +25,23 @@ Currently sharpening my skills in <strong>Express.js</strong>, <strong>Firebase<
 
 ---
 
-## 🚀 What I'm Focused On
+## 🚀 What I'm Currently Working On
 
-- Building full-stack web applications with modern JavaScript stacks  
-- Designing responsive and accessible user interfaces  
-- Strengthening backend architecture and API development  
-- Exploring AI-powered features in web platforms  
-- Contributing to projects that solve real-world problems  
+- 🧩 Designing and experimenting with **MCP-style AI development workflows**
+- 🤖 Learning how **LLMs, embeddings, and vector search** power modern AI systems
+- 🌐 Building **full-stack MERN applications** with scalable backend architecture
+- 🛠️ Exploring **developer tools & automation** to improve engineering productivity
+- 🎓 Developing **SkillEdge**, an AI-powered EdTech platform
+
+---
+
+## 🧠 Areas of Interest
+
+- AI-powered application development  
+- Retrieval-Augmented Generation (RAG) systems  
+- Backend architecture & API design  
+- Human-AI collaboration workflows  
+- Performance-focused web applications  
 
 ---
 
@@ -39,19 +49,11 @@ Currently sharpening my skills in <strong>Express.js</strong>, <strong>Firebase<
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,express,nodejs,mongodb,firebase,figma,git,github,vscode,vercel&perline=12"
+    src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,firebase,java,python,git,github,vscode,vercel&perline=12"
     alt="Skill Icons"
     loading="lazy"
   />
 </div>
-
----
-
-## 🌟 Featured Project
-
-### 🎓 SkillEdge — AI-Powered EdTech Platform  
-A smart learning platform designed to make education more personalized and interactive.  
-Built with modern web technologies and focused on performance, usability, and scalable backend systems.
 
 ---
 
@@ -89,6 +91,6 @@ Built with modern web technologies and focused on performance, usability, and sc
 ---
 
 <p align="center">
-Thanks for visiting my profile!  
-Feel free to explore my repositories, check out my work, or connect with me. Let's build something amazing 🚀
+Thanks for stopping by!  
+I’m always open to learning, collaborating, and building meaningful tech 🚀
 </p>
