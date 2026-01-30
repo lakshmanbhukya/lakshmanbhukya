@@ -7,15 +7,17 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h3>
 
-<h1 align="center">Hey, I'm Lakshman! Glad you're here 🙌</h1>
+<h1 align="center">Hi, I'm Lakshman 👋</h1>
 
 <p align="center">
-I'm a Computer Science undergraduate and passionate Web Developer who loves building clean, functional, and user-friendly web applications.<br/>
-From designing sleek frontends to handling backend logic, I enjoy learning and experimenting with modern web technologies.<br/>
-Currently learning <strong>Express.js</strong>, <strong>Firebase</strong>, and expanding my JavaScript skills while working on real-world projects like <strong>SkillEdge</strong>, an AI-powered EdTech platform.
+🎓 Computer Science Undergraduate | 💻 Full-Stack Web Developer | 🚀 Lifelong Learner  
+<br/><br/>
+I enjoy building clean, scalable, and user-focused web applications. My interests span across modern frontend development, backend systems, and integrating intelligent features into real-world products.  
+<br/><br/>
+Currently sharpening my skills in <strong>Express.js</strong>, <strong>Firebase</strong>, and advanced <strong>JavaScript</strong> while building impactful projects like <strong>SkillEdge</strong> — an AI-powered EdTech platform.
 </p>
 
-<p align="center"><em>"Make use of everything you have and do it." — my motto for learning and growth.</em></p>
+<p align="center"><em>"Learn. Build. Improve. Repeat."</em></p>
 
 <div align="center">   
     <img src="https://visitor-badge.laobi.icu/badge?page_id=lakshmanbhukya.lakshmanbhukya" alt="visitors" height="27px" />
@@ -23,15 +25,33 @@ Currently learning <strong>Express.js</strong>, <strong>Firebase</strong>, and e
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I'm Focused On
+
+- Building full-stack web applications with modern JavaScript stacks  
+- Designing responsive and accessible user interfaces  
+- Strengthening backend architecture and API development  
+- Exploring AI-powered features in web platforms  
+- Contributing to projects that solve real-world problems  
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,express,mongodb,firebase,figma,git,github,vscode,vercel,nodejs&perline=12"
+    src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,express,nodejs,mongodb,firebase,figma,git,github,vscode,vercel&perline=12"
     alt="Skill Icons"
     loading="lazy"
   />
 </div>
+
+---
+
+## 🌟 Featured Project
+
+### 🎓 SkillEdge — AI-Powered EdTech Platform  
+A smart learning platform designed to make education more personalized and interactive.  
+Built with modern web technologies and focused on performance, usability, and scalable backend systems.
 
 ---
 
@@ -52,7 +72,7 @@ Currently learning <strong>Express.js</strong>, <strong>Firebase</strong>, and e
 
 ---
 
-## 🔗 Connect with Me
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lakshmanbhukya">
@@ -69,6 +89,6 @@ Currently learning <strong>Express.js</strong>, <strong>Firebase</strong>, and e
 ---
 
 <p align="center">
-  Thanks for visiting my profile.<br/>
-  Feel free to explore my repos or just say hi! 😊
+Thanks for visiting my profile!  
+Feel free to explore my repositories, check out my work, or connect with me. Let's build something amazing 🚀
 </p>
