@@ -31,7 +31,7 @@ My current focus lies at the intersection of <strong>full-stack engineering</str
 - 🤖 Learning how **LLMs, embeddings, and vector search** power modern AI systems
 - 🌐 Building **full-stack MERN applications** with scalable backend architecture
 - 🛠️ Exploring **developer tools & automation** to improve engineering productivity
-- 🎓 Developing **SkillEdge**, an AI-powered EdTech platform
+- 🎓 Developing **Sentinel-EV**, an Agentic Powered self-healing EV grid System
 
 ---
 
