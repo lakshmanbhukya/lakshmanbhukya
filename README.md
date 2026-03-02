@@ -73,8 +73,6 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🎯 What I Do
-
 ```yaml
 name: Lakshman Bhukya
 located_in: India 🇮🇳
@@ -93,26 +91,6 @@ currently_building:
 
 life_philosophy: "Understand deeply. Build practically. Improve continuously."
 ```
-
-</td>
-<td width="45%" valign="top">
-
-### 🚀 Current Focus
-
-- 🔬 **Research & Build** MCP-style AI development workflows
-- 🤖 **Exploring** LLMs, embeddings & vector search
-- 🧠 **Building** scalable backend architecture
-- 🌟 **Developing** Sentinel-EV (self-healing grid)
-- 📚 **Studying** Computer Science
-
-<br/>
-
-### 💡 Quick Facts
-
-- 🎓 Learns by breaking down complex systems
-- 🔥 Passionate about human-AI collaboration
-- 🌱 Always turning ideas into working software
-- ☕ Believes code should be practical & continuous
 
 </td>
 </tr>
