@@ -35,12 +35,12 @@
     
     <text x="35" y="120" fill="#a78bfa">"name"</text>
     <text x="90" y="120" fill="#9ca3af">:</text>
-    <text x="100" y="120" fill="#34d399">"Lakshman Bhukya"</text>
-    <text x="235" y="120" fill="#9ca3af">,</text>
+    <text x="100" y="120" fill="#34d399">"Lakshman Singh Naik Bhukya"</text>
+    <text x="330" y="120" fill="#9ca3af">,</text>
     
     <text x="35" y="145" fill="#a78bfa">"role"</text>
     <text x="85" y="145" fill="#9ca3af">:</text>
-    <text x="95" y="145" fill="#34d399">"Full-Stack Builder &amp; AI Explorer"</text>
+    <text x="95" y="145" fill="#34d399">"Full-Stack Builder | AI Explorer"</text>
     <text x="365" y="145" fill="#9ca3af">,</text>
     
     <text x="35" y="170" fill="#a78bfa">"location"</text>
@@ -50,12 +50,12 @@
     
     <text x="35" y="195" fill="#a78bfa">"focus"</text>
     <text x="90" y="195" fill="#9ca3af">:</text>
-    <text x="100" y="195" fill="#34d399">"MCP-style AI Workflows &amp; MERN"</text>
-    <text x="355" y="195" fill="#9ca3af">,</text>
+    <text x="100" y="195" fill="#34d399">"RAG Workflows &amp; MERN Stack"</text>
+    <text x="340" y="195" fill="#9ca3af">,</text>
     
     <text x="35" y="220" fill="#a78bfa">"goal"</text>
     <text x="80" y="220" fill="#9ca3af">:</text>
-    <text x="90" y="220" fill="#34d399">"Developing Sentinel-EV"</text>
+    <text x="90" y="220" fill="#34d399">"Building AtlasMind &amp; Omni"</text>
     
     <text x="20" y="245" fill="#fbbf24">}</text>
     

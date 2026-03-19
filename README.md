@@ -74,22 +74,22 @@
 <td width="55%" valign="top">
 
 ```yaml
-name: Lakshman Bhukya
-located_in: India 🇮🇳
-current_status: CS Undergraduate & Full-Stack Builder
+name: Lakshman Singh Naik Bhukya
+located_in: India
+current_status: CS Undergrad @ PVPSIT | Full-Stack Builder | AI Explorer
 
 areas_of_expertise:
   - 🌐 Full-Stack Engineering (MERN)
-  - 🤖 AI & LLM Workflows
-  - ⚙️ Backend Architecture
+  - 🤖 AI & RAG Workflows (Amazon Bedrock, Groq LPU)
+  - ⚙️ Backend Architecture & Cloud (AWS Practitioner)
   - 🚀 Performance-focused Web Apps
 
 currently_building:
-  - Sentinel-EV (Agentic EV grid System)
-  - MCP-style AI development workflows
-  - Developer productivity tools
+  - AtlasMind (Conversational BI for MongoDB)
+  - Omni (AI-Powered Incident Response Platform)
+  - AWS-based Agentic AI Workflows
 
-life_philosophy: "Understand deeply. Build practically. Improve continuously."
+life_philosophy: "Building real-world systems with a focus on architecture and tradeoffs."
 ```
 
 </td>
@@ -146,13 +146,6 @@ life_philosophy: "Understand deeply. Build practically. Improve continuously."
   
   <br/><br/>
   
-  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
-  <a href="https://github.com/lakshmanbhukya">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lakshmanbhukya&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
-  </a>
-  
-  <br/><br/>
-  
   <!-- Activity Graph -->
   <a href="https://github.com/lakshmanbhukya">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmanbhukya&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
@@ -193,65 +186,62 @@ life_philosophy: "Understand deeply. Build practically. Improve continuously."
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡ TECH STACK                                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!-- 🚀 TECH STACK (OVERHAULED FROM RESUME) -->
 <img src="./assets/section-tech.svg" width="180"/>
 
 <br/><br/>
 
-<div align="center">
+<div align="left">
 
-<!-- 💻 LANGUAGES -->
-<h4>💻 Languages</h4>
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
-</p>
+<!-- LANGUAGES -->
+<h3>⌨️ Languages</h3>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+<br/><br/>
 
-<!-- 🌐 FRONTEND -->
-<h4>🌐 Frontend</h4>
-<p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap"/></a>
-</p>
+<!-- CLOUD & HOSTING -->
+<h3>☁️ Cloud & Hosting</h3>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+<br/><br/>
 
-<!-- ⚙️ BACKEND -->
-<h4>⚙️ Backend</h4>
-<p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" title="Express"/></a>
-</p>
+<!-- FRAMEWORKS -->
+<h3>📦 Frameworks & Libraries</h3>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer"/>
+<img src="https://img.shields.io/badge/Recharts-222222?style=flat-square&logo=recharts&logoColor=white" alt="Recharts"/>
+<br/><br/>
 
-<!-- 🗄️ DATABASES -->
-<h4>🗄️ Databases</h4>
-<p>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase"/></a>
-</p>
+<!-- DATABASES -->
+<h3>🗄️ Databases</h3>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Vector"/>
+<br/><br/>
 
-<!-- 🔧 TOOLS & PLATFORMS -->
-<h4>🔧 Tools & Platforms</h4>
-<p>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" alt="Jenkins" title="Jenkins"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
-</p>
+<!-- AI / DATA SCIENCE -->
+<h3>🤖 AI & Data Science</h3>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Bedrock"/>
+<img src="https://img.shields.io/badge/Groq_LPU-F5A623?style=flat-square&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-4B0082?style=flat-square&logo=vector&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Boto3"/>
+<br/><br/>
 
-<!-- 🤖 AI & ML -->
-<h4>🤖 AI & ML</h4>
-<p>
-  <a href="https://ollama.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ollama&theme=dark" alt="Ollama" title="Ollama"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://skillicons.dev/icons?i=huggingface&theme=dark" alt="Hugging Face" title="Hugging Face"/></a>
-</p>
+<!-- DEVOPS & TOOLS -->
+<h3>🛠️ DevOps & Tools</h3>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 
 </div>
 
@@ -307,6 +297,10 @@ life_philosophy: "Understand deeply. Build practically. Improve continuously."
 &nbsp;
 <a href="https://linkedin.com/in/lakshmanbhukya" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@lakshmanbhukya" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=1a1b26" alt="Medium"/>
 </a>
 &nbsp;
 <a href="mailto:lakshmannaikbhukya17@gmail.com">
