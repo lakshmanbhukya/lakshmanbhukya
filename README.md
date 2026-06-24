@@ -62,47 +62,6 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 👤 ABOUT ME SECTION                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-about.svg" width="180"/>
-
-<br/><br/>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-name: Lakshman Singh Naik Bhukya
-located_in: India
-current_status: CS Undergrad @ PVPSIT | Full-Stack Builder | AI Explorer
-
-areas_of_expertise:
-  - 🌐 Full-Stack Engineering (MERN)
-  - 🤖 AI & RAG Workflows (Amazon Bedrock, Groq LPU)
-  - ⚙️ Backend Architecture & Cloud (AWS Practitioner)
-  - 🚀 Performance-focused Web Apps
-
-currently_building:
-  - AtlasMind (Conversational BI for MongoDB)
-  - Omni (AI-Powered Incident Response Platform)
-  - AWS-based Agentic AI Workflows
-
-life_philosophy: "Building real-world systems with a focus on architecture and tradeoffs."
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
