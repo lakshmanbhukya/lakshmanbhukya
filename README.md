@@ -103,21 +103,6 @@
     <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanbhukya&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currStreakNum=f093fb&sideNums=764ba2&currStreakLabel=f093fb&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
   </a>
   
-  <br/><br/>
-  
-  <!-- Activity Graph -->
-  <a href="https://github.com/lakshmanbhukya">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmanbhukya&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
-  </a>
-  <br><br>
-  <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshmanbhukya&theme=tokyonight" width="95%" alt="Profile Details"/>
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
