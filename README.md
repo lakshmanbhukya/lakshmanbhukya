@@ -195,35 +195,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 CURRENTLY WORKING ON                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-### ⚡ Currently Building & Learning
-
-<br/>
-
-<a href="https://github.com/lakshmanbhukya">
-  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-&nbsp;
-<a href="https://github.com/lakshmanbhukya">
-  <img src="https://img.shields.io/badge/🧠_RAG_Systems-Vector_Search-764ba2?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-&nbsp;
-<a href="https://github.com/lakshmanbhukya">
-  <img src="https://img.shields.io/badge/🌐_MERN_Stack-Scalable_Backend-f093fb?style=for-the-badge&labelColor=1a1b26"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🌐 CONNECT WITH ME                                                          -->
