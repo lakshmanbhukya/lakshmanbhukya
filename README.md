@@ -228,44 +228,6 @@
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💭 RANDOM DEV QUOTE                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  <br/>
-  
-  <a href="https://github.com/lakshmanbhukya">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
-  </a>
-  
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 FOOTER                                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-  <img src="./assets/footer.svg" width="100%"/>
-  
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
-  
-</div>
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📝 END OF README                                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
