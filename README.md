@@ -127,31 +127,6 @@
 <img src="./assets/divider.svg" width="100%"/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-game.svg" width="280"/>
-
-<br/><br/>
-
-<!-- <div align="center">
-  
-  <!-- Contribution Graph (Generated via GitHub Actions) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshmanbhukya/lakshmanbhukya/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshmanbhukya/lakshmanbhukya/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/lakshmanbhukya/lakshmanbhukya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-  
-  <br/>
-  
-  <sub>👾 Moving snake devouring my contributions!</sub>
-  
-</div> -->
-
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🚀 TECH STACK (ALIGNED WITH RESUME) -->
 <img src="./assets/section-tech.svg" width="180"/>
