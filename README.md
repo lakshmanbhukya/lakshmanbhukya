@@ -136,7 +136,7 @@
 
 <br/><br/>
 
-<div align="center">
+<!-- <div align="center">
   
   <!-- Contribution Graph (Generated via GitHub Actions) -->
   <picture>
@@ -149,7 +149,7 @@
   
   <sub>👾 Moving snake devouring my contributions!</sub>
   
-</div>
+</div> -->
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -229,15 +229,15 @@
 <br/>
 
 <a href="https://github.com/lakshmanbhukya">
-  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 &nbsp;
 <a href="https://github.com/lakshmanbhukya">
-  <img src="https://img.shields.io/badge/🧠_RAG_Systems-Vector_Search-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/_RAG_Systems-Vector_Search-764ba2?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 &nbsp;
 <a href="https://github.com/lakshmanbhukya">
-  <img src="https://img.shields.io/badge/🌐_MERN_Stack-Scalable_Backend-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/_MERN_Stack-Scalable_Backend-f093fb?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 
 </div>
