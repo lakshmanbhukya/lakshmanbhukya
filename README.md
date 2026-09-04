@@ -72,21 +72,6 @@
 <div align="center">
   
   <!-- Featured Hackathon Achievement -->
-  <table width="85%" align="center">
-    <tr>
-      <td align="left">
-        <h3>🥈 1st Runner-Up — Hack-N-Go (MongoDB & TheSmartBridge)</h3>
-        <p>
-          Secured <b>1st Runner-Up</b> at <b>Hack-N-Go</b>, a national-level hackathon powered by <b>TheSmartBridge & MongoDB</b>, competing solo among <b>10,000+ participants</b> to reach the top 10 finalists.
-        </p>
-        <p>
-          💡 <b>Featured Project: <a href="https://github.com/lakshmanbhukya/AtlasMind">AtlasMind</a></b> — AI-Powered Natural Language & Voice Query Platform converting user queries into optimized MongoDB queries in &lt;200ms using LLMs, few-shot RAG retrieval, and strict read-only backend guardrails.
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
 
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
