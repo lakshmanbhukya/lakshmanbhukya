@@ -87,32 +87,6 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ANALYTICS                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/section-stats.svg" width="220"/>
-
-<br/><br/>
-
-<div align="center">
-  
-  <!-- GitHub Stats + Dynamic Streak in ONE ROW -->
-  <a href="https://github.com/lakshmanbhukya">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lakshmanbhukya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <!-- <a href="https://github.com/lakshmanbhukya">
-    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanbhukya&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=f093fb&currStreakNum=f093fb&sideNums=764ba2&currStreakLabel=f093fb&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
-  </a>  -->
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🚀 TECH STACK                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
