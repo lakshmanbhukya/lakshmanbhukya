@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 520" width="470" height="520">
+  <defs>
+    <style>
+      @keyframes termFade {
+        0% { opacity: 0; transform: translateY(4px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      .term-font { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 11.5px; }
+      .header-bg { fill: #161b22; }
+      .title-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8b949e; }
+      .line-0 { animation: termFade 0.25s ease-out 0.05s both; }
+      .line-1 { animation: termFade 0.25s ease-out 0.12s both; }
+      .line-2 { animation: termFade 0.25s ease-out 0.18s both; }
+      .line-3 { animation: termFade 0.25s ease-out 0.24s both; }
+      .line-4 { animation: termFade 0.25s ease-out 0.3s both; }
+      .line-5 { animation: termFade 0.25s ease-out 0.36s both; }
+      .line-6 { animation: termFade 0.25s ease-out 0.42s both; }
+      .line-7 { animation: termFade 0.25s ease-out 0.48s both; }
+      .line-8 { animation: termFade 0.25s ease-out 0.54s both; }
+      .line-9 { animation: termFade 0.25s ease-out 0.6s both; }
+      .line-10 { animation: termFade 0.25s ease-out 0.66s both; }
+      .line-11 { animation: termFade 0.25s ease-out 0.72s both; }
+      .line-12 { animation: termFade 0.25s ease-out 0.78s both; }
+      .line-13 { animation: termFade 0.25s ease-out 0.84s both; }
+      .line-14 { animation: termFade 0.25s ease-out 0.9s both; }
+      .line-15 { animation: termFade 0.25s ease-out 0.96s both; }
+      .swatches { animation: termFade 0.3s ease-out 1.05s both; }
+    </style>
+    <linearGradient id="infoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f141c"/>
+      <stop offset="100%" stop-color="#0a0d14"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal Window Frame -->
+  <rect x="1" y="1" width="468" height="518" rx="12" fill="url(#infoGrad)" stroke="#30363d" stroke-width="1.2"/>
+
+  <!-- Title Bar -->
+  <path d="M 1 13 A 12 12 0 0 1 13 1 L 457 1 A 12 12 0 0 1 469 13 L 469 36 L 1 36 Z" class="header-bg"/>
+  <line x1="1" y1="36" x2="469" y2="36" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Window Controls -->
+  <circle cx="20" cy="18" r="5.5" fill="#ff5f56"/>
+  <circle cx="38" cy="18" r="5.5" fill="#ffbd2e"/>
+  <circle cx="56" cy="18" r="5.5" fill="#27ca40"/>
+
+  <!-- Window Title -->
+  <text x="235" y="22" text-anchor="middle" class="title-text">lakshman@dev — neofetch</text>
+
+  <!-- Terminal Body Content -->
+  <g class="term-font">
+    <g class="line-0">
+      <text x="24" y="62.0" fill="#22c55e" font-weight="bold">❯ </text>
+      <text x="42" y="62.0" fill="#f3f4f6" font-weight="500">❯ neofetch --user lakshman</text>
+    </g>
+    <g class="line-1">
+      <text x="24" y="85.5" fill="#38bdf8" font-weight="bold" font-size="14px">lakshman@dev</text>
+    </g>
+    <g class="line-2">
+      <text x="24" y="109.0" fill="#374151">--------------------------------------</text>
+    </g>
+    <g class="line-3">
+      <text x="24" y="132.5" fill="#a78bfa" font-weight="600">Host:</text>
+      <text x="120" y="132.5" fill="#f1f5f9">Lakshman Singh Naik Bhukya</text>
+    </g>
+    <g class="line-4">
+      <text x="24" y="156.0" fill="#a78bfa" font-weight="600">Role:</text>
+      <text x="120" y="156.0" fill="#38bdf8">Full-Stack Builder • AI Explorer</text>
+    </g>
+    <g class="line-5">
+      <text x="24" y="179.5" fill="#a78bfa" font-weight="600">Focus:</text>
+      <text x="120" y="179.5" fill="#34d399">AI Agents • RAG Workflows • MERN</text>
+    </g>
+    <g class="line-6">
+      <text x="24" y="203.0" fill="#a78bfa" font-weight="600">Languages:</text>
+      <text x="120" y="203.0" fill="#e2e8f0">Java • Python • JavaScript • SQL</text>
+    </g>
+    <g class="line-7">
+      <text x="24" y="226.5" fill="#a78bfa" font-weight="600">Backend:</text>
+      <text x="120" y="226.5" fill="#cbd5e1">Spring Boot • Node.js • Express</text>
+    </g>
+    <g class="line-8">
+      <text x="24" y="250.0" fill="#a78bfa" font-weight="600">Frontend:</text>
+      <text x="120" y="250.0" fill="#cbd5e1">React.js • Tailwind CSS • HTML5/CSS3</text>
+    </g>
+    <g class="line-9">
+      <text x="24" y="273.5" fill="#a78bfa" font-weight="600">AI &amp; DB:</text>
+      <text x="120" y="273.5" fill="#fbbf24">Atlas Vector Search • MongoDB • Redis</text>
+    </g>
+    <g class="line-10">
+      <text x="24" y="297.0" fill="#a78bfa" font-weight="600">DevOps:</text>
+      <text x="120" y="297.0" fill="#60a5fa">Docker • AWS • Git • GitHub Actions</text>
+    </g>
+    <g class="line-11">
+      <text x="24" y="320.5" fill="#a78bfa" font-weight="600">Featured:</text>
+      <text x="120" y="320.5" fill="#f43f5e">AtlasMind (NL-to-Query, Hack-N-Go 🥈)</text>
+    </g>
+    <g class="line-12">
+      <text x="24" y="344.0" fill="#a78bfa" font-weight="600">Projects:</text>
+      <text x="120" y="344.0" fill="#38bdf8">Building AtlasMind &amp; Omni</text>
+    </g>
+    <g class="line-13">
+      <text x="24" y="367.5" fill="#a78bfa" font-weight="600">Location:</text>
+      <text x="120" y="367.5" fill="#f1f5f9">India 🇮🇳</text>
+    </g>
+    <g class="line-14">
+      <text x="24" y="391.0" fill="#a78bfa" font-weight="600">Shell:</text>
+      <text x="120" y="391.0" fill="#94a3b8">zsh 5.9 (tokyonight-theme)</text>
+    </g>
+    <g class="line-15">
+      <text x="24" y="414.5" fill="#a78bfa" font-weight="600">Motto:</text>
+      <text x="120" y="414.5" fill="#ec4899">"Throughout heaven &amp; earth, keep shipping 🚀"</text>
+    </g>
+    <g class="swatches">
+      <rect x="120" y="446.0" width="22" height="10" rx="2" fill="#1e1e2e"/>
+      <rect x="147" y="446.0" width="22" height="10" rx="2" fill="#f38ba8"/>
+      <rect x="174" y="446.0" width="22" height="10" rx="2" fill="#a6e3a1"/>
+      <rect x="201" y="446.0" width="22" height="10" rx="2" fill="#f9e2af"/>
+      <rect x="228" y="446.0" width="22" height="10" rx="2" fill="#89b4fa"/>
+      <rect x="255" y="446.0" width="22" height="10" rx="2" fill="#cba6f7"/>
+      <rect x="282" y="446.0" width="22" height="10" rx="2" fill="#94e2d5"/>
+      <rect x="309" y="446.0" width="22" height="10" rx="2" fill="#cdd6f4"/>
+      <rect x="120" y="460.0" width="22" height="10" rx="2" fill="#45475a"/>
+      <rect x="147" y="460.0" width="22" height="10" rx="2" fill="#eba0ac"/>
+      <rect x="174" y="460.0" width="22" height="10" rx="2" fill="#94e2d5"/>
+      <rect x="201" y="460.0" width="22" height="10" rx="2" fill="#f5c2e7"/>
+      <rect x="228" y="460.0" width="22" height="10" rx="2" fill="#b4befe"/>
+      <rect x="255" y="460.0" width="22" height="10" rx="2" fill="#f5e0dc"/>
+      <rect x="282" y="460.0" width="22" height="10" rx="2" fill="#74c7ec"/>
+      <rect x="309" y="460.0" width="22" height="10" rx="2" fill="#bac2de"/>
+    </g>
+  </g>
+</svg>
