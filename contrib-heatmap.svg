@@ -6,7 +6,6 @@
         100% { opacity: 1; transform: translateY(0); }
       }
       .week-col {
-        opacity: 0;
         animation: colEntrance 0.3s ease-out forwards;
       }
       .header-bg { fill: #161b22; }
@@ -39,9 +38,9 @@
   <!-- Stats Line -->
   <g class="stats-text">
     <text x="24" y="55">
-      Total: <tspan class="stat-highlight">315</tspan> contributions in the last year
+      Total: <tspan class="stat-highlight">317</tspan> contributions in the last year
       <tspan fill="#4b5563"> • </tspan>
-      Current Streak: <tspan class="stat-highlight">0</tspan> days
+      Current Streak: <tspan class="stat-highlight">1</tspan> days
       <tspan fill="#4b5563"> • </tspan>
       Longest Streak: <tspan class="stat-highlight">42</tspan> days
     </text>
@@ -523,7 +522,7 @@
     <g class="week-col" style="animation-delay: 0.78s;">
       <rect x="742.4" y="80.0" width="10" height="10" rx="2" fill="#161b22"><title>0 contributions on 2026-10-04</title></rect>
       <rect x="742.4" y="93.2" width="10" height="10" rx="2" fill="#161b22"><title>0 contributions on 2026-10-05</title></rect>
-      <rect x="742.4" y="106.4" width="10" height="10" rx="2" fill="#161b22"><title>0 contributions on 2026-10-06</title></rect>
+      <rect x="742.4" y="106.4" width="10" height="10" rx="2" fill="#0e4429"><title>2 contributions on 2026-10-06</title></rect>
     </g>
 
   <!-- Legend -->
