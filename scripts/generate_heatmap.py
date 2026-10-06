@@ -173,11 +173,11 @@ def build_heatmap_svg(days, total_count, current_streak, longest_streak, output_
   <defs>
     <style>
       @keyframes colEntrance {{
-        0% {{ opacity: 0; transform: translateY(4px); }}
-        100% {{ opacity: 1; transform: translateY(0); }}
+        0% {{ opacity: 0; }}
+        100% {{ opacity: 1; }}
       }}
       .week-col {{
-        animation: colEntrance 0.3s ease-out forwards;
+        animation: colEntrance 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
       }}
       .header-bg {{ fill: #161b22; }}
       .title-text {{ font-family: 'SF Mono', 'JetBrains Mono', Consolas, monospace; font-size: 12px; fill: #8b949e; }}

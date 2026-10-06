@@ -2,8 +2,8 @@
   <defs>
     <style>
       @keyframes termFade {
-        0% { opacity: 0; transform: translateY(4px); }
-        100% { opacity: 1; transform: translateY(0); }
+        0% { opacity: 0; }
+        100% { opacity: 1; }
       }
       .term-font { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 11.5px; }
       .header-bg { fill: #161b22; }

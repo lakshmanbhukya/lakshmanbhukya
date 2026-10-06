@@ -1,24 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 520" width="410" height="520">
   <defs>
     <style>
-      /* Gojo ASCII Terminal Styling */
+      /* Optimized buttery-smooth terminal typing */
       @keyframes lineFade {
-        0% { opacity: 0; transform: translateY(2px); }
-        100% { opacity: 1; transform: translateY(0); }
+        0% { opacity: 0; }
+        100% { opacity: 1; }
       }
       @keyframes cursorBlink {
         0%, 100% { opacity: 1; }
         50% { opacity: 0; }
       }
-      @keyframes glowPulse {
-        0%, 100% { filter: drop-shadow(0 0 2px rgba(56, 189, 248, 0.4)); }
-        50% { filter: drop-shadow(0 0 6px rgba(125, 211, 252, 0.8)); }
-      }
       .header-bg { fill: #161b22; }
       .title-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #8b949e; }
       .ascii-font { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
       .cursor { fill: #38bdf8; animation: cursorBlink 1s infinite steps(1); }
-      .art-canvas { animation: glowPulse 4s infinite ease-in-out; }
       .r-0 { animation: lineFade 0.22s ease-out 0.0s both; }
       .r-1 { animation: lineFade 0.22s ease-out 0.03s both; }
       .r-2 { animation: lineFade 0.22s ease-out 0.06s both; }
