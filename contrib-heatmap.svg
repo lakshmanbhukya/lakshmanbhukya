@@ -40,7 +40,7 @@
     <text x="24" y="55">
       Total: <tspan class="stat-highlight">362</tspan> contributions in the last year
       <tspan fill="#4b5563"> • </tspan>
-      Current Streak: <tspan class="stat-highlight">7</tspan> days
+      Current Streak: <tspan class="stat-highlight">0</tspan> days
       <tspan fill="#4b5563"> • </tspan>
       Longest Streak: <tspan class="stat-highlight">42</tspan> days
     </text>
@@ -525,6 +525,7 @@
       <rect x="742.4" y="106.4" width="10" height="10" rx="2" fill="#006d32"><title>4 contributions on 2026-11-10</title></rect>
       <rect x="742.4" y="119.6" width="10" height="10" rx="2" fill="#006d32"><title>5 contributions on 2026-11-11</title></rect>
       <rect x="742.4" y="132.8" width="10" height="10" rx="2" fill="#0e4429"><title>2 contributions on 2026-11-12</title></rect>
+      <rect x="742.4" y="146.0" width="10" height="10" rx="2" fill="#161b22"><title>0 contributions on 2026-11-13</title></rect>
     </g>
 
   <!-- Legend -->
